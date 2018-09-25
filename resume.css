@@ -189,15 +189,15 @@ color: #808080
   border-bottom: 0;
 }
 footer {
-  font-size: 180%;
+  font-size: 120%;
   text-align: center;
-  color:  rgb(23, 23, 23);
+  color:  gray;
   text-decoration: none;
   width: 100%;
   display: flex;
 }
 footer a{
-  color: rgb(23, 23, 23);
+    color: gray;
 }
 footer a:hover{
   text-decoration: none;
